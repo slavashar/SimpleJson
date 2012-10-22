@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleJson", "SimpleJson\SimpleJson.csproj", "{4CB13FF3-E061-4303-9398-AE20FD5C3C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleJson.Facts", "SimpleJson.Facts\SimpleJson.Facts.csproj", "{49E62065-BCA6-4F1C-8945-094418A8D851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB13FF3-E061-4303-9398-AE20FD5C3C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB13FF3-E061-4303-9398-AE20FD5C3C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB13FF3-E061-4303-9398-AE20FD5C3C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB13FF3-E061-4303-9398-AE20FD5C3C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E62065-BCA6-4F1C-8945-094418A8D851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E62065-BCA6-4F1C-8945-094418A8D851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E62065-BCA6-4F1C-8945-094418A8D851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E62065-BCA6-4F1C-8945-094418A8D851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
